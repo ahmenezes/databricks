@@ -1,0 +1,42 @@
+%md
+
+
+
+### Markdown
+
+The magic command **&percnt;md** allows us to render Markdown in a cell:
+* Double click this cell to begin editing it
+* Then hit **`Esc`** to stop editing
+
+# Title One
+## Title Two
+### Title Three
+
+This is a test of the emergency broadcast system. This is only a test.
+
+This is text with a **bold** word in it.
+
+This is text with an *italicized* word in it.
+
+This is an ordered list
+0. once
+0. two
+0. three
+
+This is an unordered list
+* apples
+* peaches
+* bananas
+
+Links/Embedded HTML: <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank">Markdown - Wikipedia</a>
+
+Images:
+![Spark Engines](https://files.training.databricks.com/images/Apache-Spark-Logo_TM_200px.png)
+
+And of course, tables:
+
+| name   | value |
+|--------|-------|
+| Yi     | 1     |
+| Ali    | 2     |
+| Selina | 3     |
