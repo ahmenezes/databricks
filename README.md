@@ -27,4 +27,3 @@
 ### Helpful links
 
 * [Data Objects in the Databricks Lakehouse](https://docs.databricks.com/lakehouse/data-objects.html)
-* 
