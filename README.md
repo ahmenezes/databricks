@@ -22,3 +22,9 @@
   * Incremental Data Processing – 22%
   * Production Pipelines – 16%
   * Data Governance – 9%
+
+
+### Helpful links
+
+* [Data Objects in the Databricks Lakehouse](https://docs.databricks.com/lakehouse/data-objects.html)
+* 
