@@ -12,3 +12,13 @@
 
 * [Practice exam](https://files.training.databricks.com/assessments/practice-exams/PracticeExam-DataEngineerAssociate.pdf)
 
+
+### Notes
+
+#### Exam questions are distributed into five categories:
+
+  * Databricks Lakehouse Platform – 24%
+  * ELT with Spark SQL and Python – 29%
+  * Incremental Data Processing – 22%
+  * Production Pipelines – 16%
+  * Data Governance – 9%
