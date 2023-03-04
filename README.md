@@ -108,6 +108,7 @@
 
 ### Other Helpful links
 
+* [Personal notes - Fundamentals of the Databricks Lakehouse Platform Accreditation](https://github.com/ahmenezes/databricks/blob/main/Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Accreditation%20-%20v2.md)
 * [Data Objects in the Databricks Lakehouse](https://docs.databricks.com/lakehouse/data-objects.html)
 
 ### Recommended books
